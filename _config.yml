@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "生活工作记录"
+title                    : "lilongen的工作及技术记录blog"
 title_separator          : "-"
 name                     : "李龙恩(lilongen)"
 description              : "生活点滴,工作记录"
@@ -108,9 +108,9 @@ analytics:
 author:
   name             : "lilongen"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "码农"
-  location         : ""
-  email            :
+  bio              : ""
+  location         : "苏州"
+  email            : "lilongen@163.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
